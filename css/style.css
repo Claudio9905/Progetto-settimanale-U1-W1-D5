@@ -1,0 +1,188 @@
+body {
+  color: #c8e7f0;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+header,
+main,
+footer {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+header #logo {
+  background-color: black;
+  padding: 1.7em;
+}
+
+header #logo img {
+  width: 140px;
+  margin-left: 33%;
+}
+
+header #titolo {
+  background-image: url(/Esercitazioni/Progetto-settimanale--U1-W1-D5-/images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 2em;
+}
+
+header #titolo h1 {
+  color: #25a2c3;
+  font-size: 2em;
+  margin-bottom: 1em;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+header #titolo p {
+  font-size: 1.1em;
+  margin-bottom: 2.5em;
+  color: black;
+}
+
+header #titolo .link {
+  background-color: #f04c2f;
+  padding: 0.5em;
+  width: 150px;
+  margin-left: 26%;
+  border-radius: 5px;
+}
+
+header #titolo a {
+  text-decoration: none;
+  font-size: 0.9em;
+  color: white;
+}
+
+main {
+  text-align: center;
+}
+
+main #section-1 {
+  background-color: white;
+}
+
+main .little-title {
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+main #section-1 p {
+  font-size: 1.2em;
+  color: black;
+}
+
+main #section-1 #notebook {
+  width: 300px;
+  border-radius: 150px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+main #section-2 {
+  background-color: #e22d0e;
+  color: white;
+  padding: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+main #section-2 h1 {
+  font-size: 2.5em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+main #section-2 .descrizione {
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+
+main #section-2 .persona {
+  font-size: 1.1em;
+  margin-top: 2em;
+}
+
+main #section-2 .ruolo {
+  font-size: 0.8em;
+  margin-top: 1em;
+}
+
+main #section-3 div {
+  margin-bottom: 0px;
+  color: black;
+}
+
+main #section-3 div img {
+  width: 400px;
+}
+
+main #section-3 .description-2 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-left: 1px solid #dee1e3;
+  border-right: 1px solid #dee1e3;
+  border-bottom: 1px solid #dee1e3;
+  width: 400px;
+  margin-left: 1.3em;
+  margin-bottom: 2em;
+}
+
+main #section-3 .description-2 h3 {
+  margin-top: 0px;
+  padding: 1em;
+}
+
+main #section-3 .description-2 p {
+  font-size: 1.2em;
+  padding: 0.6em;
+  margin-bottom: 1.5em;
+}
+
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  padding: 1em;
+  color: #c8e7f0;
+}
+
+footer a {
+  color: #c8e7f0;
+}
+
+footer h1 {
+  font-size: 2.5em;
+  margin-bottom: 1em;
+  color: white;
+}
+
+footer .div-4 {
+  border-bottom: 1px solid white;
+  width: 40%;
+  margin-left: 6em;
+  margin-bottom: 1em;
+}
+
+footer .div-4 p {
+  margin-bottom: 1em;
+  font-size: 1.1em;
+  display: flex;
+  flex-direction: row;
+}
+
+footer i {
+  margin-right: 1em;
+}
+
+footer .copyright {
+  font-size: 1em;
+}
