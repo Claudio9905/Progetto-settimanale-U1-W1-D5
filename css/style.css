@@ -24,7 +24,7 @@ header #logo img {
 }
 
 header #titolo {
-  background-image: url(/Esercitazioni/Progetto-settimanale--U1-W1-D5-/images/banner.jpg);
+  background-image: url(../images/banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
